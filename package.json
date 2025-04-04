@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://TrushaAsarhad.github.io/my-app",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
