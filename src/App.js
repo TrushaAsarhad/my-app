@@ -24,7 +24,8 @@ function App() {
     setQuote(getRandomQuote());
   }, []);
 
-  const images = Array.from({ length: 24 }, (_, i) => `/images/photo${i + 1}.jpg`);
+  const images = Array.from({ length: 24 }, (_, i) => `${process.env.PUBLIC_URL}/images/photo${i + 1}.jpg`);
+
 
   return (
     <div
