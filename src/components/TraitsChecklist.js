@@ -12,7 +12,7 @@ const traits = [
 const TraitsChecklist = () => {
   return (
     <div className="traits">
-      <h2>That's my Aai 😎:</h2>
+      <h2>That's my Mumma 😎:</h2>
       <ul>
         {traits.map((trait, index) => (
           <li key={index}>
