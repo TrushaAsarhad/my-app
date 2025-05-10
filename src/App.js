@@ -38,7 +38,7 @@ function App() {
 
   return (
     <div className="app">
-      <img src="/shinchan-meme.jpg" alt="Shinchan Meme" className="meme-img" />
+      <img src="C:\Users\User\Desktop\gayatri\my-app\public\shinchan-meme.jpg" alt="Shinchan Meme" className="meme-img" />
       <h1>Happy Mother's Day, Mummy! 💖</h1>
       <p className="wish">{wish}</p>
 
